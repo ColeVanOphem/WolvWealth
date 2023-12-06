@@ -31,6 +31,7 @@ Throughout the development of WolvWealth, our team gained valuable insights into
 ## What's next for WolvWealth
 Looking forward, we envision expanding WolvWealth by incorporating additional features such as real-time market data, personalized user profiles and settings, and more advanced optimization strategies and risk models. We plan to further enhance the user experience by providing additional insights to guide users to make confident, data-driven decisions, and explore opportunities for integration with financial APIs. WolvWealth is just the beginning, and we are excited about its potential to revolutionize how individuals approach portfolio management.
 
+## Screenshots
 ![Landing Page](/readme/landing.png)
 The front page of WolvWealth for new users
 
